@@ -27,3 +27,7 @@ CSS3
 
 [Amazon-Clone Video.zip](https://github.com/user-attachments/files/15573461/Amazon-Clone.zip)
 
+## Contact
+
+For any inquiries, please reach out to [Sneha Khandar](https://github.com/Sneha-Khandar).
+
