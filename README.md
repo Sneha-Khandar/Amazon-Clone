@@ -22,3 +22,6 @@ Footer: Includes links to important pages, such as About Us, Contact, and Help.
 HTML5 
 
 CSS3
+
+[Amazon-Clone.zip](https://github.com/user-attachments/files/15573461/Amazon-Clone.zip)
+
